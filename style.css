@@ -1,3 +1,7 @@
+body {
+  background: green;
+}
+
 h1 {
   background: goldenrod;
   padding: 2rem 4rem;
